@@ -3,6 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import './assets/css/bootstrap.css';
+import './assets/css/manual.css';
+import './assets/css/animate.css';
+import './assets/css/css-fontello/fontello.css';
+import './assets/css/css-fontello/fontello-codes.css';
+import './assets/css/css-fontello/fontello-embedded.css';
+import './assets/css/css-fontello/fontello-ie7.css';
+import './assets/css/css-fontello/fontello-ie7-codes.css';
+
 
 ReactDOM.render(
   <React.StrictMode>
