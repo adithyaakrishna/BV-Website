@@ -31,5 +31,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "guppy": {
+    "id": "8df720c0-c1eb-11ea-b7c6-69b3ad3f97ab",
+    "name": "bvwebsite",
+    "type": "create-react-app",
+    "color": "#4919b7",
+    "icon": "./static/media/icon_gradient2.5d1b28fb.png",
+    "createdAt": 1594302803149
   }
 }

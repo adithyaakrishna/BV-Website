@@ -32,7 +32,7 @@ function Partners() {
             <div className="row">
                 <div className="col-md-4 col-sm-4 col-xs-6 mb-gallery ">
                     <div className="photo-gallery">
-                        <a href="https://www.nsrcel.org/" target="_blank"rel="noopener noreferrer" className="img-link">
+                        <a href="https://www.nsrcel.org/" target="_blank" rel="noopener noreferrer" className="img-link">
                             
                                   <img src={require('../../assets/sponsors/Oursupporters/1.png')} alt="gallery4" />
                         </a>
