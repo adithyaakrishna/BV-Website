@@ -1,1 +1,1 @@
-This project has been Archived, Please do visit [@TeamLBTC](https://github.com/TeamLBTC)
+This project has been Moved, Please do visit [@TeamLBTC](https://github.com/TeamLBTC)
